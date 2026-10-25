@@ -1,0 +1,17 @@
+# Dataset files
+*.csv
+*.json
+
+# Trained model files
+*.keras
+*.h5
+
+# Python cache & virtual environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Editor settings
+.vscode/
