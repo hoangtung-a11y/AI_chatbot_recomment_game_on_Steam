@@ -3,7 +3,6 @@
 *.json
 
 # Trained model files
-*.keras
 *.h5
 
 # Python cache & virtual environments
@@ -15,3 +14,4 @@ env/
 
 # Editor settings
 .vscode/
+
